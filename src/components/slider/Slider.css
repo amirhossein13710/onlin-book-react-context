@@ -1,0 +1,29 @@
+.slider {
+    width: 85%;
+    margin: 20px auto;
+    direction: ltr;
+}
+
+.slider h2 {
+    font-size: 2rem;
+    color: rgb(103, 102, 100);
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* .react-multi-carousel-list{
+    padding: 10px;
+    border: 1px solid #8d7f7f;
+    box-shadow: 0 0 10px #1b1818;
+} */
+.slider img {
+    width: 300px;
+    height: 300px;
+    /* object-fit: contain; */
+}
+.react-multi-carousel-dot-list  {
+    margin-top: -2px;
+}
+.react-multi-carousel-list{
+    padding: 20px;
+}
